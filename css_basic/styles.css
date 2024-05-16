@@ -1,0 +1,56 @@
+/* base.css */
+
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+/* Header Styling */
+header {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    padding: 10px;
+}
+
+/* Main Content Styling */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Article Styling */
+article {
+    background-color: #fff; /* White background */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+/* Footer Styling */
+footer {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Links Styling */
+a {
+    color: #EF0107; /* Arsenal red for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
