@@ -4,6 +4,7 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: #f4f4f4; /* Background color */
 }
 
 /* Main */
@@ -33,6 +34,17 @@ header {
     width: 100%; /* Take the entire width of the screen */
     padding: 20px 0;
     height: 80px;
+    background-color: #333; /* Header background color */
+    color: white; /* Header text color */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    font-size: 24px;
+    color: white;
+    margin-right: 10px;
 }
 
 /* Footer */
