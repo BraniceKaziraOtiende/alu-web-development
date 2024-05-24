@@ -7,7 +7,7 @@ This webpage is meant for practice for adavnced HTML and CSS using a premade des
 
 WEBSITE TEMPLATE.
 
-![alt text](image-1.png)
+![alt text](webpage.png)
 
 Follow these steps to clone the repository and view the webpage using index.html.
 
