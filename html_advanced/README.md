@@ -23,5 +23,5 @@ Feel free to explore the webpage designed using pure HTML semantic elements.
 Contact
 Feel free to reach out to me for any questions or feedback.
 
-Email:b.otiende1@alustudent.com
+
 
